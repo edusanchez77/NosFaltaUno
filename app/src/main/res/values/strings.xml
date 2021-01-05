@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Nos Falta Uno</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="title_activity_register">Registro</string>
+    <string name="title_activity_settings">Configuración</string>
+    <string name="title_activity_help">Ayuda</string>
+    <string name="title_activity_modifPerfil">Modificar mi perfil</string>
+    <string name="title_activity_crearPartido">Organizar Partido</string>
+    <string name="title_activity_detallePartido">Detalle del partido</string>
+    <string name="title_activity_restartPassword">Reestablecé tu contraseña</string>
+    <string name="title_activity_contacto">Contacto</string>
+
+    <!-- Variables Drawer Menú -->
+    <string name="menu_partidos">Mi Agenda</string>
+    <string name="menu_jugadores">Jugadores</string>
+    <string name="menu_jugar">Partidos</string>
+    <string name="menu_tribuna">Tribuna</string>
+
+    <!-- Variables Menú Secundario -->
+    <string name="action_settings">Configuración</string>
+    <string name="action_contacto">Contacto</string>
+    <string name="action_ayuda">Ayuda</string>
+    <string name="action_cerrarSesion">Cerrar Sesión</string>
+    <string name="action_modificar_perfil">Modificar Perfil</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">455695638722462</string>
+    <string name="fb_login_protocol_scheme">fb455695638722462</string>
+
+
+    <!-- Google -->
+    <string name="server_client_id">660666684974-fllpjj490ea535ai0mltocpea2dtmeqi.apps.googleusercontent.com</string>
+
+
+
+</resources>

@@ -1,0 +1,58 @@
+<!--
+  Created by Cba Electronics on 12/08/20 16:34
+  Copyright (c) 2020 . All rights reserved.
+  Last modified 12/08/20 16:34
+  -->
+
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="strPosition">
+        <item>Drive</item>
+        <item>Revés</item>
+    </string-array>
+
+    <string-array name="strCategory">
+        <item>7ma</item>
+        <item>6ta</item>
+        <item>5ta</item>
+        <item>4ta</item>
+        <item>3ra</item>
+        <item>2da</item>
+    </string-array>
+
+    <string-array name="opcionesCamara">
+        <item>Tomar una foto</item>
+        <item>Elegir de galería</item>
+    </string-array>
+    
+    <string-array name="tipoTecho">
+        <item>Abierta</item>
+        <item>Techada</item>
+    </string-array>
+
+    <string-array name="tipoPiso">
+        <item>Cemento</item>
+        <item>Césped</item>
+    </string-array>
+
+    <string-array name="tipoPared">
+        <item>Cemento</item>
+        <item>Cristal</item>
+    </string-array>
+
+    <string-array name="generoPartido">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Mixto</item>
+    </string-array>
+</resources>

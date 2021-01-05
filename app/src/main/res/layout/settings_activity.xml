@@ -1,0 +1,15 @@
+<!--
+  Created by Cba Electronics on 12/08/20 16:34
+  Copyright (c) 2020 . All rights reserved.
+  Last modified 12/08/20 16:34
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/settings"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

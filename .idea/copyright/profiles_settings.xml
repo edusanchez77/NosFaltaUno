@@ -1,0 +1,14 @@
+<component name="CopyrightManager">
+  <settings default="CbaElectronics">
+    <module2copyright>
+      <element module="All" copyright="CbaElectronics" />
+    </module2copyright>
+    <LanguageOptions name="Kotlin">
+      <option name="fileTypeOverride" value="3" />
+      <option name="lenBefore" value="1" />
+    </LanguageOptions>
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="prefixLines" value="false" />
+    </LanguageOptions>
+  </settings>
+</component>

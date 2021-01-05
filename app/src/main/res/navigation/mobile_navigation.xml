@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_jugar">
+
+    <fragment
+        android:id="@+id/nav_partidos"
+        android:name="com.cbaelectronics.nosfaltauno.ui.Partidos.PartidosFragment"
+        android:label="@string/menu_partidos"
+        tools:layout="@layout/fragment_partidos" />
+
+    <fragment
+        android:id="@+id/nav_jugadores"
+        android:name="com.cbaelectronics.nosfaltauno.ui.Jugadores.JugadoresFragment"
+        android:label="@string/menu_jugadores"
+        tools:layout="@layout/fragment_jugadores" />
+
+    <fragment
+        android:id="@+id/nav_jugar"
+        android:name="com.cbaelectronics.nosfaltauno.ui.Jugar.JugarFragment"
+        android:label="@string/menu_jugar"
+        tools:layout="@layout/fragment_jugar" />
+    <fragment
+        android:id="@+id/nav_tribuna"
+        android:name="com.cbaelectronics.nosfaltauno.ui.Tribuna.TribunaFragment"
+        android:label="@string/menu_tribuna"
+        tools:layout="@layout/fragment_tribuna" />
+
+</navigation>

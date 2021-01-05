@@ -1,0 +1,28 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Login -->
+    <dimen name="letraButtons">18sp</dimen>
+    <dimen name="heightButtons">38dp</dimen>
+    <dimen name="marginTop">80dp</dimen>
+    <dimen name="marginTitulo">60dp</dimen>
+
+    <!-- Ayuda -->
+    <dimen name="widthOpcionesAyuda">180dp</dimen>
+    <dimen name="heightOpcionesAyuda">120dp</dimen>
+    <dimen name="widhtReglamentoAyuda">380dp</dimen>
+    <dimen name="topIconAyuda">18dp</dimen>
+
+    <!-- Jugar -->
+    <dimen name="letraFecha">16sp</dimen>
+    <dimen name="letraEquipo">20sp</dimen>
+    <dimen name="heightBandera">45dp</dimen>
+
+    <!-- Largo Pronosticos -->
+    <dimen name="widthPronosticos">380dp</dimen>
+</resources>

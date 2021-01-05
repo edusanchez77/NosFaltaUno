@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "660666684974",
+    "firebase_url": "https://nos-falta-uno-d5f3c.firebaseio.com",
+    "project_id": "nos-falta-uno-d5f3c",
+    "storage_bucket": "nos-falta-uno-d5f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660666684974:android:bb1b51609bde9b0e5231bf",
+        "android_client_info": {
+          "package_name": "com.cbaelectronics.nosfaltauno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660666684974-mo5jc0h86g5oib235i40d5sftjfri4gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cbaelectronics.nosfaltauno",
+            "certificate_hash": "5b314b71a54ba9d00d8d549ed6e63de8a275811e"
+          }
+        },
+        {
+          "client_id": "660666684974-etf4n3f347srt39jjg1tvuh26vvmf3hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cbaelectronics.nosfaltauno",
+            "certificate_hash": "e49c8cc5fad2ea53b6694937e870eb7d1478db4a"
+          }
+        },
+        {
+          "client_id": "660666684974-fllpjj490ea535ai0mltocpea2dtmeqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6evV27XvV5719RhB_kbMb7kkMVBAgt1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660666684974-fllpjj490ea535ai0mltocpea2dtmeqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

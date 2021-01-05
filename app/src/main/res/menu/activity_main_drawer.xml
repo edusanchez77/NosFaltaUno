@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_jugar"
+            android:icon="@drawable/ic_padel"
+            android:title="@string/menu_jugar" />
+        <item
+            android:id="@+id/nav_jugadores"
+            android:icon="@drawable/ic_user"
+            android:title="@string/menu_jugadores" />
+        <item
+            android:id="@+id/nav_partidos"
+            android:icon="@drawable/ic_calendar"
+            android:title="@string/menu_partidos" />
+        <item
+            android:id="@+id/nav_tribuna"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_tribuna" />
+    </group>
+
+    <!--
+    <item android:title="Sesión">
+        <menu>
+            <item android:title="Mi Perfil"
+                android:id="@+id/nav_miPerfil"
+                android:icon="@drawable/ic_user"/>
+            <item android:title="Cerrar Sesion"
+                android:icon="@drawable/ic_exit"/>
+        </menu>
+    </item>
+
+    <item android:title="Configuración">
+        <menu>
+            <item android:title="Ayuda"
+                android:icon="@drawable/ic_help"/>
+            <item android:title="Acerca de"
+                android:icon="@drawable/ic_abaut"/>
+            <item android:title="Contactanos"
+                android:icon="@drawable/ic_email"/>
+        </menu>
+    </item>
+    -->
+</menu>
